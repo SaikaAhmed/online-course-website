@@ -1,0 +1,13 @@
+
+.card img {
+    width: 50%;
+    margin-left: 25%;
+    /* height: 90px; */
+}
+.card {
+    margin-bottom: 100px;
+    padding: 10px;
+}
+.card-title {
+    color: darkblue;
+}

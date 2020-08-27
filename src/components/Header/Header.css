@@ -1,0 +1,7 @@
+.headline {
+    background-color: black;
+    padding: 15px;
+    color: aqua;  
+    cursor: pointer;
+    margin-bottom: 5%;
+}
